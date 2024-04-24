@@ -68,6 +68,7 @@ Actuated fan covers for PCs are an interesting innovation that can enhance both 
 </details>
 
 #
+### Example Usage
 
 <details><summary>Calculator Circuit Example</summary>
 <br>
