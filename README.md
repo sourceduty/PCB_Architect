@@ -254,5 +254,10 @@ The thermal and electrical conductivity of gel-based substrates is also a critic
 <br>
 </details>
 
+#
+### Related Links
+
+[Biological Computer Board](https://github.com/sourceduty/Biological_Computer_Board)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
