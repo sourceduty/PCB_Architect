@@ -257,7 +257,11 @@ The thermal and electrical conductivity of gel-based substrates is also a critic
 #
 ### Related Links
 
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
 [Biological Computer Board](https://github.com/sourceduty/Biological_Computer_Board)
+<br>
+[AI + IoT](https://github.com/sourceduty/AI_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
